@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d83909c-6179-45d3-9567-2f0c68b5c60d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProblemsProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonProblem/PROBLEMTYPE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonProblem/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PersonProblem/PersonTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d83909c-6179-45d3-9567-2f0c68b5c60d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,40 +33,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.PersonTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersonTest.testPersonHas1Problem.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemTest.testThatPersonHasMoreThan1Problem.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatPersonHas2ProblemAnd1HasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatPersonHas2ProblemAnd2HasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatPersonHasMoreThan1Problem.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatProblemExist.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatProblemHasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatProblemNotExist.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatpersonHas2ProblemAnd1HasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatpersonHas2ProblemAnd2HasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProblemsTest.testThatpersonHas3ProblemAnd2HasBeenSolved.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL USER/IdeaProjects/ProblemsProject/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.PersonTest.testPersonHas1Problem.executor": "Run",
+    "JUnit.PersonTest.testPersonHas1ProblemAndSolved1Problem.executor": "Run",
+    "JUnit.PersonTest.testPersonHas2ProblemsAndSolved1Problems.executor": "Run",
+    "JUnit.PersonTest.testPersonHas2ProblemsAndSolved2Problems.executor": "Run",
+    "JUnit.ProblemTest.executor": "Run",
+    "JUnit.ProblemTest.testThatPersonHas2ProblemAnd1HasBeenSolved.executor": "Run",
+    "JUnit.ProblemTest.testThatPersonHas2ProblemAnd2HasBeenSolved.executor": "Run",
+    "JUnit.ProblemTest.testThatPersonHas3ProblemAnd2HasBeenSolved.executor": "Run",
+    "JUnit.ProblemTest.testThatPersonHasMoreThan1Problem.executor": "Run",
+    "JUnit.ProblemTest.testThatPersonHasMoreThan1ProblemAndProblemHasBeenSolved.executor": "Run",
+    "JUnit.ProblemTest.testThatProblemExist.executor": "Run",
+    "JUnit.ProblemTest.testThatProblemHasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.executor": "Run",
+    "JUnit.ProblemsTest.testThatPersonHas2ProblemAnd1HasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.testThatPersonHas2ProblemAnd2HasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.testThatPersonHasMoreThan1Problem.executor": "Run",
+    "JUnit.ProblemsTest.testThatProblemExist.executor": "Run",
+    "JUnit.ProblemsTest.testThatProblemHasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.testThatProblemNotExist.executor": "Run",
+    "JUnit.ProblemsTest.testThatpersonHas2ProblemAnd1HasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.testThatpersonHas2ProblemAnd2HasBeenSolved.executor": "Run",
+    "JUnit.ProblemsTest.testThatpersonHas3ProblemAnd2HasBeenSolved.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DELL USER/IdeaProjects/ProblemsProject/src/Main.java",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.ProblemTest">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="PersonProblem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
     <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProblemsProject" />
       <extension name="coverage">
@@ -91,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest.testPersonHas1Problem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonTest.testPersonHas1ProblemAndSolved1Problem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProblemsProject" />
       <extension name="coverage">
         <pattern>
@@ -101,7 +107,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="PersonProblem" />
       <option name="MAIN_CLASS_NAME" value="PersonProblem.PersonTest" />
-      <option name="METHOD_NAME" value="testPersonHas1Problem" />
+      <option name="METHOD_NAME" value="testPersonHas1ProblemAndSolved1Problem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testPersonHas2ProblemsAndSolved1Problems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProblemsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PersonProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PersonProblem" />
+      <option name="MAIN_CLASS_NAME" value="PersonProblem.PersonTest" />
+      <option name="METHOD_NAME" value="testPersonHas2ProblemsAndSolved1Problems" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,7 +144,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemTest.testThatPersonHas2ProblemAnd2HasBeenSolved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTest.testThatPersonHas3ProblemAnd2HasBeenSolved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProblemsProject" />
       <extension name="coverage">
         <pattern>
@@ -132,23 +154,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="PersonProblem" />
       <option name="MAIN_CLASS_NAME" value="PersonProblem.ProblemTest" />
-      <option name="METHOD_NAME" value="testThatPersonHas2ProblemAnd2HasBeenSolved" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProblemTest.testThatPersonHasMoreThan1Problem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProblemsProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PersonProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PersonProblem" />
-      <option name="MAIN_CLASS_NAME" value="PersonProblem.ProblemTest" />
-      <option name="METHOD_NAME" value="testThatPersonHasMoreThan1Problem" />
+      <option name="METHOD_NAME" value="testThatPersonHas3ProblemAnd2HasBeenSolved" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProblemTest" />
-        <item itemvalue="JUnit.ProblemTest.testThatPersonHasMoreThan1Problem" />
         <item itemvalue="JUnit.PersonTest" />
-        <item itemvalue="JUnit.PersonTest.testPersonHas1Problem" />
-        <item itemvalue="JUnit.ProblemTest.testThatPersonHas2ProblemAnd2HasBeenSolved" />
+        <item itemvalue="JUnit.PersonTest.testPersonHas2ProblemsAndSolved1Problems" />
+        <item itemvalue="JUnit.PersonTest.testPersonHas1ProblemAndSolved1Problem" />
+        <item itemvalue="JUnit.ProblemTest" />
+        <item itemvalue="JUnit.ProblemTest.testThatPersonHas3ProblemAnd2HasBeenSolved" />
       </list>
     </recent_temporary>
   </component>
@@ -182,22 +188,16 @@
       <updated>1725285290171</updated>
       <workItem from="1725285853446" duration="19486000" />
       <workItem from="1725394371323" duration="16725000" />
-      <workItem from="1726043871600" duration="1527000" />
+      <workItem from="1726043871600" duration="3787000" />
+      <workItem from="1726210727036" duration="25309000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -3,23 +3,22 @@ package PersonProblem;
 
 public class Problem {
 
-    private Problem problem;
+    private String problemName;
     private PROBLEMTYPE type;
     private boolean isSolved;
-    private String name;
 
 
 
 
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String problemName) {
+        this.problemName = problemName;
     }
 
     public String getName() {
-        return name;
+        return problemName;
     }
 
-    public void setType(PROBLEMTYPE type) {
+    public void setType(String problemDescription, PROBLEMTYPE type) {
         this.type = type;
     }
 
@@ -31,7 +30,7 @@ public class Problem {
         this.type = type;
     }
 
-    public boolean isSolved(boolean isSolved) { return isSolved; }
+    public boolean problemStatus() { return isSolved; }
 
     public void setStatus(boolean isSolved) {
         this.isSolved = isSolved;
